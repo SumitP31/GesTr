@@ -7,4 +7,4 @@ arduino_read.py
 - sum_reader_trans.py -Transformer
 
 ## TTS :
-text_to_speech.py
+text_to_audio.py
